@@ -1,2 +1,2 @@
 # family-team
-Organització familiar de les tasques domèstiques
+Organització familiar de les tasques domèstiques de la llar

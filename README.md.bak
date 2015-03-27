@@ -22,6 +22,12 @@ CRUD usuaris:
      
 Organització d'usuaris:  Els usuaris s'agrupen en families.
 
+Login:   Google Sign In  (utilització mòdul 'everyauth' integrat amb 'express')
+         exemple everyauth:  https://www.npmjs.com/package/everyauth-express3
+                             http://stackoverflow.com/questions/14704803/express-3-0-everyauth-https
+    
+Logout:  
+
 CRUD families: 
      
      Crear:  Un usuari crea una familia i hi afegeix la resta d'usuaris de la familia.
@@ -42,13 +48,6 @@ CRUD llistes:
      Consultar:   Tots els usuaris poden consultar totes les llistes de la seva familia. 
      
      Eliminar:    Només l'usuari que ha creat la llista, la  pot eliminar.
-
-
-Login:   Google Sign In  (utilització mòdul 'everyauth' integrat amb 'express')
-         exemple everyauth:  https://www.npmjs.com/package/everyauth-express3
-                             http://stackoverflow.com/questions/14704803/express-3-0-everyauth-https
-    
-Logout:  
      
      
 Compartir llistes entre usuaris:  Tots els usuaris que pertanyen a una familia, comparteixen totes les llistes.

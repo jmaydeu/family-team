@@ -11,6 +11,4 @@ Base de dades :          No sql, MongoDB
 Requeriments funcionals:
 
 Autenticació:    Google Sign In  (utilització mòdul 'everyauth' integrat amb 'express')
-   exemple everyauth:  https://www.npmjs.com/package/everyauth-express3
-                       http://stackoverflow.com/questions/14704803/express-3-0-everyauth-https
-                    
+
